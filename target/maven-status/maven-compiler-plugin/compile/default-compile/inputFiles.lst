@@ -1,0 +1,8 @@
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/LoginAndRegisterApplication.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/config/WebSecurityConfiguration.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/controller/AppController.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/encryption/PasswordEncoder.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/model/CustomUserDetails.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/model/User.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/repository/UserRepository.java
+/Users/kutsal/Desktop/repolar/LoginAndRegisterApp/src/main/java/com/registration/registrationAndLogin/service/CustomUserDetailService.java
